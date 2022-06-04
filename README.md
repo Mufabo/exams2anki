@@ -1,7 +1,7 @@
 # How To ...
 
 ## Install
-clone this repo, change into the directory and run ``pip install .`
+clone this repo, change into the directory and run ``pip install .``
  
 ## Use
 
