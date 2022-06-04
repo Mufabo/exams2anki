@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import sys
 import hashlib
 import genanki
-import pdb
 
 def getPage(link):
     r = requests.get(link)

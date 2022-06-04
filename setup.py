@@ -19,7 +19,9 @@ setup(name='exams2anki',
       install_requires=[
         'requests',
         'bs4',
-        'genanki'
+        'genanki',
+        'hashlib',
+        'sys'
         ],
       entry_points={
         "console_scripts": [
